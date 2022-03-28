@@ -6,13 +6,13 @@
  
  **OBS:** Talvez criar novo usuário (Verificar se será demorado), caso contrário crie e informe aqui login e senha.
  
- **Test Case: Errando dados ao logar** /n
- Step 1: Acessar tela da Amazon /n
- Step 2: Redirecoinar a tela de login /br
- Step 3: Limpar campos de login e senha <br>
- Step 4: Informar login OU senha incorreto
- Step 5: Realizar login 
- Step 6: Executa caso de tete "Recuperando Senha"
+ **Test Case: Errando dados ao logar** <br />
+ Step 1: Acessar tela da Amazon <br />
+ Step 2: Redirecoinar a tela de login <br />
+ Step 3: Limpar campos de login e senha <br />
+ Step 4: Informar login OU senha incorreto <br />
+ Step 5: Realizar login <br />
+ Step 6: Executa caso de tete "Recuperando Senha" <br />
 
  **Test Case: Recuperando senha**
  Step 1: Acessar tela da Amazon
