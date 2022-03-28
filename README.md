@@ -14,32 +14,32 @@
  Step 5: Realizar login <br />
  Step 6: Executa caso de tete "Recuperando Senha" <br />
 
- **Test Case: Recuperando senha**
- Step 1: Acessar tela da Amazon
- Step 2: Redirecoinar a tela de login
- Step 3: Clicar no link recuperar senha
- Step 4: Informar e-mail de acesso
- Step 5: Clicar na ação recuperar
- Step 6: Acessar o e-mail vinculado
- Step 7: Abrir e-mail recebido
- Step 8: Clicar no link recebido
- Step 9: Indicar nova senha
- Step 10: Confirmar nova senha
- Step 11: Salvar nova senha
- Step 12: Executa caso de tete "Realizar login"
+ **Test Case: Recuperando senha** <br />
+ Step 1: Acessar tela da Amazon <br />
+ Step 2: Redirecoinar a tela de login <br />
+ Step 3: Clicar no link recuperar senha <br />
+ Step 4: Informar e-mail de acesso <br />
+ Step 5: Clicar na ação recuperar <br />
+ Step 6: Acessar o e-mail vinculado <br />
+ Step 7: Abrir e-mail recebido <br />
+ Step 8: Clicar no link recebido <br />
+ Step 9: Indicar nova senha <br />
+ Step 10: Confirmar nova senha <br />
+ Step 11: Salvar nova senha <br />
+ Step 12: Executa caso de tete "Realizar login" <br />
  
-  **Test Case: login com sucesso**
- Step 1: Acessar tela da Amazon
- Step 2: Redirecoinar a tela de login
- Step 3: Limpar campos de login e senha
- Step 4: Informar login e senha corretamente
- Step 5: Realizar Login 
- Step 6: Executa caso de tete "Selecionar Produto"
+  **Test Case: login com sucesso** <br />
+ Step 1: Acessar tela da Amazon <br />
+ Step 2: Redirecoinar a tela de login <br />
+ Step 3: Limpar campos de login e senha <br />
+ Step 4: Informar login e senha corretamente <br />
+ Step 5: Realizar Login <br />
+ Step 6: Executa caso de tete "Selecionar Produto" <br />
  
- **Test Case: Selecionar produto**
- Step 1: Selecionar 2 produtos no site
- Step 2: Adicionar produto ao carrinho
- Step 3: Executa caso de tete "Acessar carrinho"
+ **Test Case: Selecionar produto** <br/>
+ Step 1: Selecionar 2 produtos no site <br/>
+ Step 2: Adicionar produto ao carrinho <br/>
+ Step 3: Executa caso de tete "Acessar carrinho" <br/>
  
  **Test Case: Acessar carrinho**
  Step 1: Clica no ícone do carrinho
