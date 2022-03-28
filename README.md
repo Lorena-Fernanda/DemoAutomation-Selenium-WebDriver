@@ -41,17 +41,17 @@
  Step 2: Adicionar produto ao carrinho <br/>
  Step 3: Executa caso de tete "Acessar carrinho" <br/>
  
- **Test Case: Acessar carrinho**
- Step 1: Clica no ícone do carrinho
- Step 2: Listar dados do carrinho e rolar a página (verificar o Conferir dados)
- Step 3: Executa caso de teste "Finalizar compra"
+ **Test Case: Acessar carrinho** <br/>
+ Step 1: Clica no ícone do carrinho <br/>
+ Step 2: Listar dados do carrinho e rolar a página (verificar o Conferir dados) <br/>
+ Step 3: Executa caso de teste "Finalizar compra" <br/>
  
- **Test Case: Finalizar compra**
- Step 1: Clicar em finalizar compra
- Step 2: Rolar a página de dados (verificar os dados)
- Step 3: Se mostrar a página de confirmacao de compra
- Step 4: Mover o mouse até o perfil
- Step 5: Pedir para sair da conta.
+ **Test Case: Finalizar compra** <br/>
+ Step 1: Clicar em finalizar compra <br/>
+ Step 2: Rolar a página de dados (verificar os dados) <br/>
+ Step 3: Se mostrar a página de confirmacao de compra <br/>
+ Step 4: Mover o mouse até o perfil <br/>
+ Step 5: Pedir para sair da conta. <br/>
  
  
  
