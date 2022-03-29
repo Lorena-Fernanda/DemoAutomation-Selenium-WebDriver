@@ -1,6 +1,6 @@
 # DemoAutomation
  **Ferramenta:** Selenium com ChromeDriver <br/>
- **Linguagem:** Pyton com PyCham
+ **Linguagem:** Python com PyCham
  
  **Atividade:** 
  
